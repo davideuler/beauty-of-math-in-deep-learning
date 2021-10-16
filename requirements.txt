@@ -1,0 +1,4 @@
+conda install pillow
+conda install matplotlib
+conda install pandas numpy
+conda install silence-tensorflow
